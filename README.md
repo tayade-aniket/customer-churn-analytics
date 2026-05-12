@@ -18,7 +18,7 @@ This end-to-end Data Science project focuses on predicting customer churn for a 
 ## 🖥️ Interactive Dashboard
 The project includes a comprehensive PowerBI dashboard providing a 360-degree view of customer health and churn metrics.
 
-![Dashboard Preview]("./dashboards/Dashboard.png")
+![Dashboard Preview](./dashboard/dashboard.png)
 
 ---
 
