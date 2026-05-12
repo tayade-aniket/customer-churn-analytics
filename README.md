@@ -18,7 +18,7 @@ This end-to-end Data Science project focuses on predicting customer churn for a 
 ## 🖥️ Interactive Dashboard
 The project includes a comprehensive PowerBI dashboard providing a 360-degree view of customer health and churn metrics.
 
-![Dashboard Preview](images/Dashboard.png)
+![Dashboard Preview]("./dashboards/Dashboard.png")
 
 ---
 
@@ -93,7 +93,7 @@ The project transforms raw data into business decisions:
 **Aniket Tayade**
 *   **Portfolio:** [https://aniket-tayade-nine.vercel.app/]
 *   **LinkedIn:** [https://www.linkedin.com/in/aniket-g-tayade/]
-*   **GitHub:** [@tayade-aniket]
+*   **GitHub:** [https://github.com/tayade-aniket/]
 
 ---
 *If you found this project useful, please consider giving it a ⭐!*
