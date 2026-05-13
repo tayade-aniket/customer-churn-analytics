@@ -81,15 +81,15 @@ The total **revenue at risk** in the Critical tier is estimated at **$167,789** 
 
 ## 📊 Dashboard Suite (Images)
 ### 1️⃣ Executive Overview
-![Executive Overview](./images/Dashboard1.jpeg)
+![Executive Overview](./images/Dashboard1.png)
 *High‑level churn KPIs, revenue impact, and contract‑type distribution.*
 
 ### 2️⃣ Customer Segment Analysis
-![Segment Analysis](./images/Dashboard2.jpeg)
+![Segment Analysis](./images/Dashboard2.png)
 *Demographic & usage patterns that drive churn.*
 
 ### 3️⃣ Risk Prediction & Retention Strategy
-![Risk Analysis](./images/Dashboard3.jpeg)
+![Risk Analysis](./images/Dashboard3.png)
 *Visualisation of risk tiers, health scores, and suggested actions.*
 
 ---
@@ -101,9 +101,6 @@ The `scripts/retention_engine.py` script:
 3. Maps scores to risk tiers and business actions.
 4. Exports a **high‑risk customer list** (`reports/high_risk_customers.csv`) ready for CRM ingestion.
 
-```bash
-python scripts/retention_engine.py
-```
 
 ---
 
@@ -125,7 +122,7 @@ python scripts/retention_engine.py
 ---
 
 ## 👤 Author
-**Aniket Tayade** – Data Scientist & AI Engineer
+**Aniket Tayade** – Data Analytics & AI Engineer
 - Portfolio: [aniket‑tayade‑nine.vercel.app](https://aniket-tayade-nine.vercel.app/)
 - LinkedIn: [linkedin.com/in/aniket‑g‑tayade](https://www.linkedin.com/in/aniket-g-tayade/)
 - GitHub: [github.com/tayade‑aniket](https://github.com/tayade-aniket)
