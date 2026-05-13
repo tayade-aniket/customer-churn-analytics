@@ -82,11 +82,6 @@ The retention engine converts model probabilities into prioritized business acti
     ```bash
     pip install -r requirements.txt
     ```
-3.  **Run the Retention Engine:**
-    ```bash
-    python scripts/retention_engine.py
-    ```
-
 ---
 
 ## 👤 Author
